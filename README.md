@@ -41,3 +41,8 @@ A guide to setting up Go development with Vim, including plugins, autocompletion
 ### Troubleshooting
     - Autocomplete not working: Ensure gopls is installed and in your $PATH.
     - Plugins not loading: Run :PlugInstall and restart Vim.
+
+## Screenshot
+Here’s a preview of the configured Vim environment:
+
+![Screenshot of Vim setup](https://raw.githubusercontent.com/rezauditore/go-vim/refs/heads/main/assets/vim-screenshot.png)
