@@ -1,0 +1,9 @@
+{
+  "languageserver": {
+    "golang": {
+      "command": "gopls",
+      "filetypes": ["go", "gomod"],
+      "rootPatterns": ["go.work", "go.mod", ".git/"]
+    }
+  }
+}
