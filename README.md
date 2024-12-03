@@ -46,3 +46,4 @@ A guide to setting up Go development with Vim, including plugins, autocompletion
 Here’s a preview of the configured Vim environment:
 
 ![Screenshot of Vim setup](https://raw.githubusercontent.com/rezauditore/go-vim/refs/heads/main/assets/vim-screenshot.png)
+![Screenshot of Vim setup](https://raw.githubusercontent.com/rezauditore/go-vim/refs/heads/main/assets/Vi4go.png)
