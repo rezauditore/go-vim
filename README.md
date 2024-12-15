@@ -20,7 +20,7 @@ A guide to setting up Go development with Vim, including plugins, autocompletion
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/go-vim.git
+   git clone https://github.com/rezauditore/go-vim.git
    cd go-vim
    
 2. Copy the .vimrc file to your home directory: `cp .vimrc ~/.vimrc`
